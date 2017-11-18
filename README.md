@@ -1,4 +1,4 @@
-Rede Neural Artificial Feedfoward em Matlab
+**Rede Neural Artificial Feedfoward em Matlab**
 
 Script em Matlab para gerar e treinar uma Rede Neural do tipo feedfoward
 
